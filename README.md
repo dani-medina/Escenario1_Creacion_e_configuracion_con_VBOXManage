@@ -1,4 +1,4 @@
-# Escenario1_Creacion_e_configuracion_con_VBOXManage
+# Escenario 1 - Creación e configuración con VBOXManage
 
 
 
