@@ -26,7 +26,7 @@ Os scripts crean e configuran cada unha das máquinas e as configura con VBOXMAN
 
 ### Crea-Maquinas-E1.bash
 
-O script Crea-Maquinas-E1.bash crea as máquinas VirtualBox, apoiándose en plantillas xeradas anteriormente. Véase [[Xera_Plantillas_VirtualBox](https://github.com/danimedin/Xera_Plantillas_VirtualBox)](https://github.com/danimedin/Xera_Plantillas_VirtualBox). Simplemente crea clons enlazados e configura o hardware.
+O script Crea-Maquinas-E1.bash crea as máquinas VirtualBox, apoiándose en plantillas xeradas anteriormente. Véase [Xera_Plantillas_VirtualBox](https://github.com/danimedin/Xera_Plantillas_VirtualBox). Simplemente crea clons enlazados e configura o hardware.
 
 Ademais crea unha máquina, chamada E1-R-INT, que fará de router entre a rede do anfitrión e a rede E1-R-INT.
 
