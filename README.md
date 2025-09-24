@@ -4,7 +4,7 @@
 
 Xera as máquinas necesarias segundo un arquivo CSV (Info-Maquinas.txt).
 
-A idea é xerar un escenario similar ao da imaxe: 
+A idea é xerar un escenario similar ao da imaxe: [E1-LAN](https://github.com/danimedin/Escenario1_Creacion_e_configuracion_con_VBOXManage/blob/main/E1%20-%20Xilgaro%20-%20LAN.jpg?raw=true)
 
 No arquivo Info-Maquinas.txt temos unha táboa coa lista de máquinas e os seus parámetros. Este sería un exemplo.
 
