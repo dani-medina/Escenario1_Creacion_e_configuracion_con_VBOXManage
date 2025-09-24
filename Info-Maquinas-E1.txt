@@ -1,0 +1,8 @@
+NOME:PLANTILLA:IP:usuario:Password
+E1-XDC-01:Windows 2022 Sever - Plantilla:10.1.0.100:administrador:abc123.
+E1-XDC-02:Windows 2022 Sever - Plantilla:10.1.0.101:administrador:abc123.
+E1-XFS-01:Windows 2022 Sever - Plantilla:10.1.0.110:administrador:abc123.
+E1-W-01:Windows 11 Pro - Plantilla:DHCP:administrador:renaido
+E1-W-02:Windows 11 Pro - Plantilla:DHCP:administrador:renaido
+E1-Trono-02:Windows 11 Pro - Plantilla:10.1.0.3:administrador:renaido
+E1-Trono-01:Ubuntu 24.04 Desktop - Plantilla:10.1.0.2:root:renaido
