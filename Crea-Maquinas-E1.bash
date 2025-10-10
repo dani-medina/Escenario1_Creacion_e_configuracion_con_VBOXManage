@@ -74,7 +74,7 @@ done
 
 
 MAQUINA="E1-R-INT"
-
+PLANTILLA="Debian 12 Server - Plantilla"
 if ! vboxmanage list vms | grep -w ${MAQUINA} > /dev/null; then
 	NOMESNAPSHOT=$MAQUINA-"SNAPSHOT"
 	# Creamos un snapshot por cada plantilla para poder facer clons enlazados só no caso que non exista previamente.
