@@ -98,6 +98,7 @@ for LINEA in $(cat ${FICHEROMAQUINAS} | grep Ubuntu); do
 	CONTRASINAL=$(echo ${LINEA} | cut -d : -f 5)
 	
 	if ! vboxmanage list runningvms | grep "${MAQUINA}" > /dev/null; then
+		vboxmanage modifyvm ${MAQUINA} --defaultfrontend headless # Isto é debido a que Ubuntu Desktop queda colgado cando arranca as guesaddtions ás veces.
 		vboxmanage startvm ${MAQUINA}
 	fi
 
